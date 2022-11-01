@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943028377645",
+    "project_id": "hihi-b8ab1",
+    "storage_bucket": "hihi-b8ab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943028377645:android:8994e621c112c7fe9c40a4",
+        "android_client_info": {
+          "package_name": "com.example.hihi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943028377645-9u50jor2tsb8dfd774q5mjbggjj66p25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtM7H3fBoz3hf8QK0xXEbBjQG3mM9A0m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943028377645-9u50jor2tsb8dfd774q5mjbggjj66p25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
